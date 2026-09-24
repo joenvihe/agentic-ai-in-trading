@@ -23,6 +23,7 @@ dev = [
     "jupytext>=1.16",
     "ipykernel>=6.29",
     "nbclient>=0.10",
+    "jupyterlab>=4.6.4",
 ]
 
 [tool.ruff]
